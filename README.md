@@ -29,6 +29,4 @@ npm run lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 
-Added github actions.
-
-Mitch was here 1.
+Added github actions!
